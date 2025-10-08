@@ -3,4 +3,8 @@
 Software Engineer & Tech Enthusiast
 
 ### Connect
-[**Website**](https://nickaryan.com) • [**LinkedIn**](https://linkedin.com/in/nickaryan)
+#### LinkedIn 
+https://linkedin.com/in/nickaryan
+
+#### My Website
+https://nickaryan.com
