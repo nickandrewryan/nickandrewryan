@@ -1,10 +1,10 @@
 # Nick Ryan
 
-Software Engineer & Tech Enthusiast
+Student, Software Engineer, Tech Enthusiast
 
 ### Connect
-#### LinkedIn 
+**LinkedIn**
 https://linkedin.com/in/nickaryan
 
-#### My Website
+**My Website**
 https://nickaryan.com
