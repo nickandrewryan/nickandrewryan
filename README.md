@@ -2,7 +2,7 @@
 
 Student, Software Engineer, Tech Enthusiast
 
-### Connect
+### Contact
 **LinkedIn**
 https://linkedin.com/in/nickryan123
 
