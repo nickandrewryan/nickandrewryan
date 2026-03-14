@@ -1,6 +1,6 @@
 # Nick Ryan
 
-Student, Software Developer, Tech Enthusiast
+Software Developer, Tech Enthusiast
 
 ### Contact
 **My Website**
