@@ -1,6 +1,6 @@
 # Nick Ryan
 
-Software Developer, Tech Enthusiast
+Full Stack Software Engineer, Tech Enthusiast
 
 ### Contact
 **My Website**
